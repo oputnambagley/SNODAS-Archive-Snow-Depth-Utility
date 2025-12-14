@@ -2,13 +2,13 @@
 
 ## ---
 
-## This utility allows users to easily interface with current and historical snow depth information by retrieving geographic snow depth data from the [National Snow and Ice Data Center's Snow Data Assimilation System archives](https://noaadata.apps.nsidc.org/NOAA/G02158/). Provides geographic and time-depth visualizations of snow depth data from the contiguous United States and southern Canada since 2009\.
+## This utility allows users to easily interface with current and historical snow depth information by retrieving geographic snow depth data from the [National Snow and Ice Data Center's Snow Data Assimilation System archives](https://noaadata.apps.nsidc.org/NOAA/G02158/).
 
 ## Description
 
 ---
 
-The goal of this application is to effectively query and process snow depth data from the NSIDC SNODAS archive and display it in a user friendly, digestible format.   
+The goal of this application is to effectively query and process snow depth data from the NSIDC SNODAS archive and display it in a user friendly, digestible format. The utility does this by providing geographic and time-depth visualizations of snow depth data from the contiguous United States and southern Canada since 2009. 
 This utility has 3 main functions:
 
 1. Plotting snow depth maps of certain regions at a specified time and displaying the deepest detected snow depths in said region  
