@@ -21,7 +21,7 @@ This utility has 3 main functions:
 
 ### Dependencies
 
-	This program requires Python 3 to be installed along with the following libraries:
+This program requires Python 3 to be installed along with the following libraries:
 
 * **numpy**  
 * **matplotlib**  
@@ -45,7 +45,7 @@ pip install geopy
 
 ### Executing program
 
-	To use this program, please download the Snow\_Depth\_Utility.py file along with the county shape files so maps can be properly plotted with all borders. Once downloaded, run the python script within your current working directory following the prompts given. Options will be given in the form of “\[letter/number\]: option” where the input should be the letter or number corresponding to your choice. The program will prompt you until it receives proper input. Zipped files queried from the archive are stored locally in a subdirectory created by the script titled ‘local\_data’. This is so that if the user wants to plot more data from a certain date or date range, the script can access the data much faster without having to redownload it. To clean this locally stored data, use the ‘wipe local data’ option prompted to the user in the starting menu. 
+To use this program, please download the Snow\_Depth\_Utility.py file along with the county shape files so maps can be properly plotted with all borders. Once downloaded, run the python script within your current working directory following the prompts given. Options will be given in the form of “\[letter/number\]: option” where the input should be the letter or number corresponding to your choice. The program will prompt you until it receives proper input. Zipped files queried from the archive are stored locally in a subdirectory created by the script titled ‘local\_data’. This is so that if the user wants to plot more data from a certain date or date range, the script can access the data much faster without having to redownload it. To clean this locally stored data, use the ‘wipe local data’ option prompted to the user in the starting menu. 
 
 Example Outputs:
 
