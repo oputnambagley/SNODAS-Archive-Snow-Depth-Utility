@@ -50,7 +50,7 @@ To use this program, please download the Snow\_Depth\_Utility.py file along with
 Example Outputs:
 
 Snow depth map example output:![Depth Map](images/Depth_Map.png)  
-![Peak Depths Output](Peak_Depths_Output.png)
+![Peak Depths Output](images/Peak_Depths_Output.png)
 Snow depth progression example output:  
 ![Progression Plot](images/Progression_Plot.png)
 Snow depth at point and time example output:
